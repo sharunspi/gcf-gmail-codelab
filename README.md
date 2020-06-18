@@ -2,4 +2,5 @@
 
 Note: This is not an officially supported Google product.
 
-Write something.
+# Google-provided, open-source package that helps automate the authorization process.
+ 
